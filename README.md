@@ -63,7 +63,6 @@ No momento, estou estudando e desenvolvendo projetos envolvendo **Linux, Docker,
 
 <br>
 
-<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
 <br>
 <br>
 
