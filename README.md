@@ -38,13 +38,10 @@ No momento, estou estudando e desenvolvendo projetos envolvendo **Linux, Docker,
 
 ## 📊 GitHub
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viniciusbarb0za&show_icons=true&theme=tokyonight)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusbarb0za&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbarb0za&layout=compact&theme=tokyonight)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbarb0za&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
 
 
 ---
