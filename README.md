@@ -63,23 +63,7 @@ No momento, estou estudando e desenvolvendo projetos envolvendo **Linux, Docker,
 
 <br>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/viniciusbarb0za/viniciusbarb0za/output/github-contribution-grid-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/viniciusbarb0za/viniciusbarb0za/output/github-contribution-grid-snake.svg"
-  />
-
-  <img
-    alt="GitHub Contribution Grid Snake Animation"
-    src="https://raw.githubusercontent.com/viniciusbarb0za/viniciusbarb0za/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
 <br>
 <br>
 
