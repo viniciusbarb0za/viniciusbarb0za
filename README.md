@@ -62,9 +62,7 @@ No momento, estou estudando e desenvolvendo projetos envolvendo **Linux, Docker,
 <div style="clear: both;"></div>
 
 <br>
-
-<br>
-<br>
+</br>
 
 ---
 
