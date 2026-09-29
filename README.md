@@ -61,9 +61,6 @@ No momento, estou estudando e desenvolvendo projetos envolvendo **Linux, Docker,
 <!-- Limpa o float dos cards -->
 <div style="clear: both;"></div>
 
-<br>
-</br>
-
 ---
 
 ## 🚀 Objetivo
