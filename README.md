@@ -53,15 +53,26 @@ No momento, estou estudando e desenvolvendo projetos envolvendo **Linux, Docker,
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=paulopontodev&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=viniciusbarb0za&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
   />
 
 </p>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viniciusbarb0za/viniciusbarb0za/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viniciusbarb0za/viniciusbarb0za/output/github-contribution-grid-snake-dark.svg">
- <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/viniciusbarb0za/viniciusbarb0za/output/github-contribution-grid-snake.svg">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/viniciusbarb0za/viniciusbarb0za/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/viniciusbarb0za/viniciusbarb0za/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="GitHub Contribution Grid Snake Animation"
+    src="https://raw.githubusercontent.com/viniciusbarb0za/viniciusbarb0za/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 
 
