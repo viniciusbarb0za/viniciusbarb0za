@@ -1,30 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Vinícius%20Barboza&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Vin%C3%ADcius%20Barboza&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 </div>
 
 <h2 align="center">Olá! 👋 Eu sou Vinícius Barboza</h2>
 
 <p align="center">
-  Estudante de Ciência da Computação focado em <strong>DevOps, Cloud Computing e Infraestrutura</strong>.
+  Estudante de Ciência da Computação com foco em 
+  <strong>DevOps, Cloud Computing e Infraestrutura</strong>.
 </p>
 
 ---
 
-### 👨‍💻 Sobre mim
+## 👨‍💻 Sobre mim
+
+Sou estudante de **Ciência da Computação** e atualmente estou direcionando meus estudos para as áreas de **Cloud Computing, DevOps e infraestrutura**.
 
 Atualmente trabalho com **suporte técnico / Help Desk**, onde tenho contato com resolução de problemas, manutenção de computadores, redes e ambientes corporativos.
 
-Essa experiência despertou meu interesse por **infraestrutura, servidores, automação e Cloud Computing**, áreas nas quais venho direcionando meus estudos.
+Essa experiência tem me ajudado a desenvolver uma visão mais prática sobre infraestrutura de TI e despertou meu interesse por **servidores, Linux, automação e Cloud**.
 
-Atualmente estou explorando tecnologias como **Linux, Docker, Git, redes, Java e Cloud**, sempre buscando transformar o que estudo em projetos práticos.
+No momento, estou estudando e desenvolvendo projetos envolvendo **Linux, Docker, Git, Redes, Java e Cloud**, sempre buscando colocar em prática aquilo que aprendo.
 
-🚀 Meu objetivo é construir uma base sólida em **DevOps e Cloud**, evoluindo tanto em infraestrutura quanto em automação e desenvolvimento.
+🚀 Meu objetivo é evoluir profissionalmente na área de **DevOps e Cloud**, construindo uma base sólida em infraestrutura, automação e desenvolvimento.
 
 ---
 
-### 🛠️ Tecnologias e ferramentas
+## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
 
@@ -34,17 +37,23 @@ Atualmente estou explorando tecnologias como **Linux, Docker, Git, redes, Java e
 
 ---
 
-### 📚 Atualmente estudando
+## 📚 Atualmente estudando
 
 <div align="center">
 
-**Cloud Computing** • **DevOps** • **Linux** • **Docker** • **Redes** • **Automação**
+🔹 Cloud Computing  
+🔹 DevOps  
+🔹 Linux  
+🔹 Docker  
+🔹 Redes  
+🔹 Automação  
+🔹 Infraestrutura
 
 </div>
 
 ---
 
-### 📊 GitHub
+## 📊 GitHub
 
 <div align="center">
 
@@ -56,8 +65,7 @@ Atualmente estou explorando tecnologias como **Linux, Docker, Git, redes, Java e
 
 ---
 
-<div align="center">
+## 🚀 Objetivo
 
-*"The best way to learn is to build."* 🚀
-
-</div>
+```text
+Learn → Build → Break → Fix → Repeat
