@@ -35,23 +35,6 @@ No momento, estou estudando e desenvolvendo projetos envolvendo **Linux, Docker,
 
 </div>
 
----
-
-## 📚 Atualmente estudando
-
-<div align="center">
-
-🔹 Cloud Computing  
-🔹 DevOps  
-🔹 Linux  
-🔹 Docker  
-🔹 Redes  
-🔹 Automação  
-🔹 Infraestrutura
-
-</div>
-
----
 
 ## 📊 GitHub
 
