@@ -35,6 +35,7 @@ No momento, estou estudando e desenvolvendo projetos envolvendo **Linux, Docker,
 
 </div>
 
+---
 
 ## 📊 GitHub
 
@@ -49,14 +50,18 @@ No momento, estou estudando e desenvolvendo projetos envolvendo **Linux, Docker,
     src="https://github-readme-stats-iota-murex-41.vercel.app/api?username=viniciusbarb0za&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=viniciusbarb0za&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=viniciusbarb0za&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
   />
-
 </p>
+
+<!-- Limpa o float dos cards -->
+<div style="clear: both;"></div>
+
+<br>
 
 <picture>
   <source
@@ -82,7 +87,9 @@ No momento, estou estudando e desenvolvendo projetos envolvendo **Linux, Docker,
 
 ## 🚀 Objetivo
 
+Meu objetivo é construir uma carreira sólida em **DevOps e Cloud**, aprofundando meus conhecimentos em infraestrutura, automação, Linux, redes e desenvolvimento.
+
+Quero transformar o conhecimento adquirido nos estudos e no trabalho em **projetos práticos**, evoluindo constantemente e me preparando para novos desafios na área de tecnologia.
+
 ```text
 Learn → Build → Break → Fix → Repeat
-
-
